@@ -1,0 +1,21 @@
+com.bean.action             handle(@Controller)
+com.bean.db                 连接池或 jdbc
+com.bean.excption           异常处理的全局类
+com.bean.service            具体业务处理类
+com.bean.vo	                                        对象类pojo(java bean;基本只有 属性和setget方法)
+com.filter                  拦截器的
+
+包下面 例如： service action 等等 都还可以继续分包
+
+请大家现在实现  完整的 1.用户注册。要求：不少于 6种
+                2.用户登录.(过滤器能起到作用)
+                3.有成功页面，和 登录失败页面
+                4.有一个完整的异常页面
+
+
+
+
+
+
+
+
